@@ -1,6 +1,6 @@
 ## Hey devs!
 
-Welcome to my github account! I am a third year compsci student at the [Norwegian University of Science and Technology](https://www.ntnu.no/). My specialization is in AI, but in my spare time I love to do some webdev.
+Welcome to my github account! I am a compsci student at the [Norwegian University of Science and Technology](https://www.ntnu.no/). 
 
 ### Technologies I use
 
